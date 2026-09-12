@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SevoStar
-- 👀 I’m interested in Friday' Night Funkin'
-- 🌱 I’m currently learning JavaScript on Khan Academy
+- 👀 I’m interested in Friday' Night Funkin' and Incredibox
 - 💞️ I’m looking to collaborate on Friday Night Funkin' Mods (Mainly on Psych/OS Engine as a Charter)
 - 📫 How to reach me: On Discord (sevogameshere)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Bowling is one of my favorite sports
+- ⚡ Fun Fact: Death Note is the hardest level in Geometry Dash I've currently beaten.
